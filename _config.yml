@@ -7,11 +7,11 @@ author :
   name : Anthony Couvion
   email : mailto:acouvion@gmail.com
   description : Get to know me
-  markdown : https://github.com/acouvion/acouvion.github.io/Profile.md
+  markdown : https://github.com/acouvion/acouvion.github.io/blob/master/Profile.md
   linkedin: https://www.linkedin.com/in/anthony-couvion-80591176/
   github : https://github.com/acouvion
   facebook : https://www.facebook.com/BigCoov
-  resume : https://github.com/acouvion/acouvion.github.io/Resume.pdf
+  resume : https://github.com/acouvion/acouvion.github.io/blob/master/Resume.pdf
   credits : credits.html
 
 markdown : kramdown
