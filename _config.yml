@@ -1,0 +1,25 @@
+url : https://acouvion.github.io
+code : https://github.com/acouvion/acouvion.github.io
+title : Anthony Couvion
+subtitle : About Me
+
+author :
+  name : Anthony Couvion
+  email : mailto:acouvion@gmail.com
+  description : Get to know me
+  markdown : https://github.com/acouvion/acouvion.github.io/Profile.md
+  linkedin: https://www.linkedin.com/in/anthony-couvion-80591176/
+  github : https://github.com/acouvion
+  facebook : https://www.facebook.com/BigCoov
+  resume : https://github.com/acouvion/acouvion.github.io/Resume.pdf
+  credits : credits.html
+
+markdown : kramdown
+highlighter : rouge
+baseurl :
+
+# Default date format is "ordinal" (resulting in "July 22nd 2016")
+# You can customize the format as defined in
+# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
+# Additionally, %o will give you the ordinal representation of the day
+date_format: "ordinal"
