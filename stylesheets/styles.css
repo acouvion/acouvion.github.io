@@ -538,16 +538,16 @@ body {
   padding: 0px 0 20px 0px;
   margin: 0px;
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #ffffff;
+  color: #F5F5F5;
   font-weight: normal;
-  background: #0e0b16;
+  background: #0f1626;
   background-attachment: fixed !important;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #0e0b16), color-stop(100%, #0e0b16));
-  background: -webkit-linear-gradient(#0e0b16, #0e0b16);
-  background: -moz-linear-gradient(#0e0b16, #0e0b16);
-  background: -o-linear-gradient(#0e0b16, #0e0b16);
-  background: -ms-linear-gradient(#0e0b16, #0e0b16);
-  background: linear-gradient(#0e0b16, #0e0b16);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #0f1626), color-stop(100%, #0f1626));
+  background: -webkit-linear-gradient(#0f1626, #0f1626);
+  background: -moz-linear-gradient(#0f1626, #0f1626);
+  background: -o-linear-gradient(#0f1626, #0f1626);
+  background: -ms-linear-gradient(#0f1626, #0f1626);
+  background: linear-gradient(#0f1626, #0f1626);
 }
 
 h1, h2, h3, h4, h5, h6 {
