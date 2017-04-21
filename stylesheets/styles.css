@@ -586,7 +586,7 @@ h3 {
 }
 
 a {
-  color: #ffcc00;
+  color: #FF533D;
   font-weight: 400;
   /*text-decoration: none;*/
   text-decoration: underline;
@@ -607,7 +607,7 @@ ul {
 }
 
 strong {
-  color: #ffcc00;
+  color: #FF533D;
   font-weight: 400;
   text-decoration: none;
 }
@@ -624,7 +624,7 @@ section img {
 }
 
 blockquote {
-  border-left: 3px solid #ffcc00;
+  border-left: 3px solid #FF533D;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
